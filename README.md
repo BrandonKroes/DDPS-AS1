@@ -1,7 +1,7 @@
 # DAS-5 Storm Vs Spark Benchmark
 
 ## Clone instruction
-Important, clone using `git clone --recursive https://git.liacs.nl/s3329879/DDPS-AS1.git` other wise the submodules won't be downloaded.
+Important, clone using `git clone --recursive https://github.com/BrandonKroes/DDPS-AS1` other wise the submodules won't be downloaded.
 
 ## Submodules
 The Spark and Storm configurations are both added as git submodules. A detailed description of the inner workings is detailed in the submodules themselves.
