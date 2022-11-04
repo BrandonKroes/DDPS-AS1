@@ -1,0 +1,6 @@
+[submodule "spark-redis-streaming"]
+	path = spark-redis-streaming
+	url = https://github.com/BrandonKroes/spark-redis-streaming/
+[submodule "storm-socket-redis"]
+	path = storm-socket-redis
+	url = https://github.com/BrandonKroes/storm-socket-redis
